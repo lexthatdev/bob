@@ -1,0 +1,12 @@
+{
+  "bob_hello": { "sounds": [{ "name": "bob:bob_hello", "stream": false }] },
+  "bob_ow":     { "sounds": [{ "name": "bob:bob_ow", "stream": false }] },
+  "bob_death": { "sounds": [{ "name": "bob:bob_death", "stream": false }] },
+  "bob_thanks": { "sounds": [{ "name": "bob:bob_thanks", "stream": false }] },
+  "bob_sword": { "sounds": [{ "name": "bob:bob_sword", "stream": false }] },
+  "bob_seesbob": { "sounds": [{ "name": "bob:bob_seesbob", "stream": false }] },
+  "bob_notreal": { "sounds": [{ "name": "bob:bob_notreal", "stream": false }] },
+  "bob_iam": { "sounds": [{ "name": "bob:bob_iam", "stream": false }] },
+  "bob_makingmemad": { "sounds": [{ "name": "bob:bob_makingmemad", "stream": false }] },
+  "bob_iamthe": { "sounds": [{ "name": "bob:bob_iamthe", "stream": false }] }
+}

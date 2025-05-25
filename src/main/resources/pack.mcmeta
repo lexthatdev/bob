@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": {
+      "text": "bob resources"
+    },
+    "pack_format": 15
+  },
+  "forge": {
+    "features": {}
+  }
+}

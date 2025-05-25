@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:sunflower_plains",
+    "minecraft:taiga",
+    "minecraft:meadow",
+    "minecraft:village_plains",
+    "minecraft:village_savanna"
+  ]
+}

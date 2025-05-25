@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#bob:spawns_bob",
+  "spawners": [
+    {
+      "type": "bob:bob",
+      "weight": 150,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ]
+}
